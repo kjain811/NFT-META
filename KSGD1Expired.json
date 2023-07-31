@@ -1,0 +1,19 @@
+{
+  "name": "KSGD1 expired",
+  "description": "1$ KSGD expired test voucher",
+  "image": "https://github.com/kjain811/NFT-META/blob/06c789c4e57548aa46c2ab57b14f52efae3cd8d5/KSGDExpired.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "0"
+    },
+    {
+      "trait_type": "IssueValue",
+      "value": "1"
+    },
+    {
+      "trait_type": "ExpiryTime",
+      "value": "2024-06-30T23:59:59+08:00"
+    }
+  ]
+}
